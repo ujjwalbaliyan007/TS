@@ -21,8 +21,9 @@ This web application provides a simple flow for users to sign up, sign in, view 
 
 ## 📂 Folder Structure  
 TS/
-├── backend/                     # Backend API
+├── backend/                # Backend API
 │   ├── controllers/
+
 │   ├── models/
 │   ├── routes/
 │   ├── middlewares/
