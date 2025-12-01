@@ -46,16 +46,16 @@ TS/
 
 ```
 
-## ⚙️ Setup Instructions  
-### 1. Clone the repository  
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/ujjwalbaliyan007/TS.git
 cd TS
-
+```
 
 ---
-
-Feel free to **copy this markdown** into your `README.md`, adjust specifics (ports, tech stack, paths) to reflect exactly your project setup, and you’ll have a professional‐looking README ready.  
 
 If you want, I can also **generate a README with badges**, sample screenshots, and auto-deployment instructions (e.g., for Vercel/Heroku). Would you like that?
 ::contentReference[oaicite:0]{index=0}
