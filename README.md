@@ -72,11 +72,11 @@ Open two terminals—one for the API, one for the client:
 
 ```bash
 # Terminal A - API
-cd /Users/ujjwalbaliyan/Desktop/JS/Ts/server
+cd /path/server
 npm run dev
 
 # Terminal B - Client
-cd /Users/ujjwalbaliyan/Desktop/JS/Ts/client
+cd /path/client
 npm run dev
 ```
 
