@@ -20,6 +20,8 @@ This web application provides a simple flow for users to sign up, sign in, view 
 | Styling | (e.g. Tailwind CSS / Bootstrap) | Responsive UI across devices |
 
 ## 📂 Folder Structure  
+```
+
 TS/
 ├── backend/                     # Backend API
 │   ├── controllers/
@@ -42,6 +44,7 @@ TS/
 ├── .env.example                 # Environment variable template
 └── README.md
 
+```
 
 ## ⚙️ Setup Instructions  
 ### 1. Clone the repository  
