@@ -20,23 +20,28 @@ This web application provides a simple flow for users to sign up, sign in, view 
 | Styling | (e.g. Tailwind CSS / Bootstrap) | Responsive UI across devices |
 
 ## 📂 Folder Structure  
-/
-├── backend/ # Backend API code
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── tests/
-│ └── server.ts
-├── frontend/ # Frontend React + TypeScript code
-│ ├── src/
-│ │ ├── pages/ # SignIn, SignUp, Dashboard
-│ │ ├── components/
-│ │ ├── services/ # API calls
-│ │ └── tests/
-│ ├── vite.config.ts
-│ └── …
-├── README.md
-└── .env.example
+TS/
+├── backend/                     # Backend API
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middlewares/
+│   ├── tests/
+│   └── server.ts
+│
+├── frontend/                    # Frontend
+│   ├── src/
+│   │   ├── pages/              # SignIn, SignUp, Dashboard
+│   │   ├── components/
+│   │   ├── services/           # API calls
+│   │   └── tests/
+│   ├── public/
+│   ├── vite.config.ts
+│   └── index.html
+│
+├── .env.example                 # Environment variable template
+└── README.md
+
 
 ## ⚙️ Setup Instructions  
 ### 1. Clone the repository  
