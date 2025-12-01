@@ -43,18 +43,7 @@ This web application provides a simple flow for users to sign up, sign in, view 
 ```bash
 git clone https://github.com/ujjwalbaliyan007/TS.git
 cd TS
-# Example backend .env
-PORT=4000
-DATABASE_URL=your_database_connection_string
-JWT_SECRET=your_secret_key
-cd backend
-npm install
-cd ../frontend
-npm install
-cd backend
-npm run dev
-cd frontend
-npm run dev
+
 
 ---
 
